@@ -1,0 +1,67 @@
+sample_words = ["mot", "sac", "feuille", "ville","chaine","chaise","arbre","fleur","fruit","lait","pain","fromage","viande","poisson"]
+
+
+Nœuds A disponibles :
+1. arbre
+2. chaine
+3. chaise
+4. feuille
+5. fleur
+6. fromage
+7. fruit
+8. lait
+9. mot
+10. pain
+11. poisson
+12. sac
+13. viande
+14. ville
+
+Types R1 disponibles :
+  Type 8 : 38272 triangles
+  Type 28 : 10149 triangles
+  Type 17 : 9418 triangles
+  Type 26 : 3217 triangles
+  Type 25 : 4542 triangles
+  Type 11 : 2148 triangles
+  Type 5 : 2137 triangles
+  Type 128 : 200 triangles
+  Type 999 : 2791 triangles
+  Type 64 : 6215 triangles
+  Type 24 : 853 triangles
+  Type 36 : 6138 triangles
+  Type 140 : 285 triangles
+  Type 3 : 11001 triangles
+  Type 6 : 3872 triangles
+  Type 10 : 12763 triangles
+  Type 15 : 3468 triangles
+  Type 32 : 2046 triangles
+  Type 156 : 206 triangles
+  Type 12 : 1698 triangles
+  Type 21 : 49 triangles
+  Type 9 : 2867 triangles
+  Type 444 : 18 triangles
+  Type 139 : 6 triangles
+  Type 35 : 103 triangles
+  Type 99 : 27 triangles
+  Type 106 : 182 triangles
+  Type 37 : 119 triangles
+  Type 50 : 432 triangles
+  Type 30 : 1224 triangles
+  Type 174 : 15 triangles
+  Type 38 : 161 triangles
+  Type 333 : 63 triangles
+  Type 22 : 172 triangles
+  Type 27 : 1349 triangles
+  Type 71 : 251 triangles
+  Type 19 : 274 triangles
+  Type 122 : 139 triangles
+  Type 74 : 82 triangles
+  Type 41 : 175 triangles
+  Type 53 : 45 triangles
+  Type 58 : 168 triangles
+  Type 51 : 1835 triangles
+  Type 54 : 1 triangles
+  Type 14 : 391 triangles
+  Type 42 : 7 triangles
+  Type 109 : 19 triangles

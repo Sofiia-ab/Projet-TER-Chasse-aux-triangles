@@ -1,0 +1,19 @@
+# Bases de données
+*.db
+
+# CSV / fichiers volumineux
+Data_graph/
+Liste_Triangles_csv/
+
+# PDF volumineux
+*.pdf
+
+# Dossier environnement Python
+.venv/
+__pycache__/
+
+# Fichiers temporaires
+*.tmp
+*.log
+
+
